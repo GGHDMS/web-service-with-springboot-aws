@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebServiceApplication.class, args);
+        SpringApplication.run(WebServiceApplication.class, args); // 내장 WAS 를 실행
     }
 
 }
